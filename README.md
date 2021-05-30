@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on React and Python based web development projects
 - 📫 Feel free to drop me a mail at : akshaygururaj141@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/akshay-rajguru-090765166
+- 🔗 LinkedIn: https://www.linkedin.com/in/akshay-rajguru-090765166
 
 <!---
 AkshaySRajguru/AkshaySRajguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
