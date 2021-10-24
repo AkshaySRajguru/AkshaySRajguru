@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React and Python based web development projects
 - 📫 Feel free to drop me a mail at : akshaygururaj141@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/akshay-rajguru-090765166
-
+- ✨ Portfolio: https://akshayrajguru-portfolio.herokuapp.com/
 <!---
 AkshaySRajguru/AkshaySRajguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
