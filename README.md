@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshaySRajguru
+- 👋 Hi, I’m Akshay Rajguru, a backend developer.
 - 👀 I’m interested in React and Python based web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on React and Python based web development projects
